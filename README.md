@@ -10,15 +10,15 @@ i am currently learning mern stack developement full stack developement<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhjaykar1603&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saurabhjaykar1603&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=saurabhjaykar1603&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/saurabh.sj2.o/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/saurabh.sj2.o/) <br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saurabhjaykar1603&limit=5&theme=oldie&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=saurabhjaykar1603&limit=5&theme=oldie&combine_all_yearly_contributions=true)<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saurabhjaykar1603&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=saurabhjaykar1603&icon=0&color=1)](https://visitcount.itsvg.in)<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
