@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saurabh Jaykar</h1>
 <h3 align="center">Student | A passionate Mern developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"></br></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhjaykar1603&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhjaykar1603" /> </p>
 
@@ -12,7 +12,6 @@
 - 📫 How to reach me **jaykarsaurabh97@gmail.com**
 
 - ⚡ Fun fact **i think i am funny** </br>
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
