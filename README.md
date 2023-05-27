@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhjaykar1603&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhjaykar1603" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhjaykar1603" alt="saurabhjaykar1603" /></a> </p>
-
 - 🌱 I’m currently learning **Mern Stack Development**
 
 - 💬 Ask me about **javascript , React.is**
